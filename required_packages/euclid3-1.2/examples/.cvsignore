@@ -1,0 +1,17 @@
+*~
+*.o
+createetree
+.kdbgrc.*
+*.make
+*.em
+*.b
+*.jc
+*.e
+targets
+etree2txt
+hello
+myetree
+query
+refine
+txt2etree
+tiny

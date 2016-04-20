@@ -1,0 +1,7 @@
+*.make
+*.o
+*~
+egetmeta
+esetmeta
+etreeinfo
+findpixel

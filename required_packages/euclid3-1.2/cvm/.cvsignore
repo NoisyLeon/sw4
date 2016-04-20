@@ -1,0 +1,12 @@
+*.o
+dump
+load
+packload
+printloc
+verifycount
+printcoord
+loadcvm
+definedomain
+packcvm
+querycvm
+createcvm
